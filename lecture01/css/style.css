@@ -21,46 +21,46 @@ h1 {
     -webkit-text-stroke-width: 1px;
     color: deeppink;
     top: 10px;
-    right: 230px;
+    left: 800px;
 }
 .hi{
     font-size: 85px;
     color: deepskyblue;
     z-index: 2;
     top: 40px;
-    right: 480px;
+    left: 530px;
 }
 .it{
     font-size: 120px;
     font-weight: 500;
     color: mediumspringgreen;
     top: 30px;
-    right: 140px;
+    left: 940px;
 }
 .jp{
     font-size: 70px;
     color: magenta;
     z-index: 3;
     top: 155px;
-    right: 210px; 
+    left: 795px; 
 }
 .mx{
     font-size: 225px;
     color: dodgerblue;
     top: 150px;
-    right: 350px;
+    left: 515px;
 }
 .sw{
     font-size: 90px;
     color: lawngreen;
     top: 470px;
-    right: 210px;
+    left: 780px;
 }
 .he{
     font-size: 85px;
     color: springgreen;
     top: 540px;
-    right: 515px;
+    left: 535px;
 }
 .ru{
     font-size: 90px;
